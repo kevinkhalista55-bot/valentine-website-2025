@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "valentine nya yang sederhana aja ya? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "alhamdulillah jadi suami beruntung sedunia! 🎉💝💖💝💓",
-        message: "yaudah ni aku kasih kado, peluk ciummmmm!",
+        message: "yaudah besok minggu jalan sama noah ya!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
