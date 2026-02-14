@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Sifa Safira",
+    valentineName: "Serly marselina",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "alhamdulillah jadi suami beruntung sedunia! 🎉💝💖💝💓",
-        message: "yaudah besok minggu jalan sama noah ya!",
+        title: "alhamdulillah jadi pacar beruntung sedunia! 🎉💝💖💝💓",
+        message: "yaudah  ntar kita ngedate ya!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
